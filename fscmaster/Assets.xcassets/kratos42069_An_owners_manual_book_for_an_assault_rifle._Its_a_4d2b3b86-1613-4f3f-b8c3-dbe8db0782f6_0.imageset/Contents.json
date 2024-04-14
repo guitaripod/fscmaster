@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kratos42069_An_owners_manual_book_for_an_assault_rifle._Its_a_4d2b3b86-1613-4f3f-b8c3-dbe8db0782f6_0.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

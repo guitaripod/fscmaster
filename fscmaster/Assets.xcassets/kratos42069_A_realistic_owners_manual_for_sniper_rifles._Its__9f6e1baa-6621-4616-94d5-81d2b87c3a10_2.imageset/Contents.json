@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kratos42069_A_realistic_owners_manual_for_sniper_rifles._Its__9f6e1baa-6621-4616-94d5-81d2b87c3a10_2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

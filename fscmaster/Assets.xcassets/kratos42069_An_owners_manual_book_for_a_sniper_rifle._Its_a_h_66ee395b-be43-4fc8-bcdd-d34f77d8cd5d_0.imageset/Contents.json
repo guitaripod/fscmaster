@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kratos42069_An_owners_manual_book_for_a_sniper_rifle._Its_a_h_66ee395b-be43-4fc8-bcdd-d34f77d8cd5d_0.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
