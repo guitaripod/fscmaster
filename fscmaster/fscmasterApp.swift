@@ -8,10 +8,19 @@ struct fscmasterApp: App {
     var body: some Scene {
         WindowGroup {
             ZStack {
+                Color.black
+                    .ignoresSafeArea()
+
                 Image(uiImage: themeEngine.currentImage)
+                    .resizable()
+                    .ignoresSafeArea()
                     .transition(.opacity)
-                    .animation(.easeOut(duration: 1), value: themeEngine.currentImage)
-                ContentView()
+                    .animation(.easeInOut(duration: 1), value: themeEngine.currentImage)
+
+                Color.black.opacity(0.3)
+                    .ignoresSafeArea()
+
+                HomeView()
             }
         }
     }
